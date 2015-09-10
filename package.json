@@ -42,5 +42,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/brianshaler/kerplunk-rating.git"
-  }
+  },
+  "license": "MIT"
 }
