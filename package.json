@@ -2,7 +2,7 @@
   "name": "kerplunk-rating",
   "displayName": "Ratings",
   "description": "Computes scores for activity items and their properties",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "permissionsList": [
       "*.models.*"
